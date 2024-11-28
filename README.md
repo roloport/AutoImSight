@@ -33,7 +33,7 @@ Scrrenshot02 - Detect defined features from high-resolution image and low-resolu
 
 
 
-### Reading Speed Results
+### Reading Speed
 
 Suggested imaging parameters and corresponding bits/sec. are tableted:  
 <img width="578" alt="table" src="https://github.com/user-attachments/assets/92b20a80-6ce2-4c25-960d-3bb52d3d63c5">
